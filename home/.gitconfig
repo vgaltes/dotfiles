@@ -1,14 +1,11 @@
 [user]
-	name = Jordi Gerona
-	email = jordi.gerona@zopa.com
+	name = Javier Salinas
+	email = jsalinaspolo@gmail.com.com
 [core]
-	excludesfile = /Users/jordigerona/.gitignore_global
+	excludesfile = /Users/jsalinas/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
 [alias]
 	st = status
 	ci = commit
