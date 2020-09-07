@@ -10,9 +10,7 @@ formulae="
 alfred
 bartender
 bettertouchtool
-chatmate-for-whatsapp
 dropbox
-flux
 font-consolas-for-powerline
 font-fira-mono-for-powerline
 font-inconsolata-for-powerline
@@ -22,17 +20,15 @@ google-chrome-canary
 intellij-idea
 istat-menus
 iterm2
-logitech-options
+appcleaner
+docker
 moom
-roon
 slack
 swinsian
 the-unarchiver
-transmission
 visual-studio-code
 vlc
 witch
-xld
 zoom
 "
 

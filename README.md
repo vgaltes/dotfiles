@@ -31,7 +31,7 @@ Fix file permissions
 
 Now it's time to clone this dotfiles as a Castle
 
-    homesick clone git@github.com:jordi9/dotfiles.git
+    homesick clone git@github.com:jsalinas/dotfiles.git
     homesick link dotfiles
 
 And private scripts and settings
