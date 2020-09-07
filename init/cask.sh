@@ -29,6 +29,7 @@ visual-studio-code
 vlc
 witch
 zoom
+logitech-presentation
 "
 
 for f in $formulae; do
