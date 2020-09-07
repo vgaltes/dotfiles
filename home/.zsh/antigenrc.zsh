@@ -27,7 +27,8 @@ EOBUNDLES
 # antigen theme $HOME/.homesick/repos/dotfiles themes/in-fino-veritas --no-local-clone
 
 # See prompt.zsh for config
-antigen theme denysdovhan/spaceship-zsh-theme spaceship
+#antigen theme denysdovhan/spaceship-zsh-theme spaceship
+antigen theme robbyrussell
 
 # Pure https://github.com/sindresorhus/pure
 # antigen bundle mafredri/zsh-async
