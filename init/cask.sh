@@ -10,7 +10,6 @@ formulae="
 alfred
 bartender
 bettertouchtool
-dropbox
 font-consolas-for-powerline
 font-fira-mono-for-powerline
 font-inconsolata-for-powerline
@@ -35,10 +34,3 @@ zoom
 for f in $formulae; do
   brew cask install $f
 done
-
-# Not used now
-# mou
-# sourcetree
-# chicken
-# soulver
-# typora
