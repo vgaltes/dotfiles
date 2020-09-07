@@ -4,3 +4,6 @@ source ~/.homesick/repos/dotfiles/antigen/antigen.zsh
 antigen init ~/.zsh/antigenrc.zsh
 
 antigen use oh-my-zsh
+
+antigen theme robbyrussell
+
