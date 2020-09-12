@@ -25,8 +25,9 @@ tree
 vim
 watch
 wget
-go
 kubernetes-cli
+go
+golangci/tap/golangci-lint
 "
 for f in $formulae; do
   echo ">> $f"
