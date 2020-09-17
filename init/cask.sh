@@ -17,6 +17,7 @@ font-source-code-pro-for-powerline
 google-chrome-beta
 google-chrome-canary
 intellij-idea
+jetbrains-toolbox
 istat-menus
 iterm2
 appcleaner

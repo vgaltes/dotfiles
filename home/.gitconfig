@@ -1,6 +1,6 @@
 [user]
 	name = Javier Salinas
-	email = jsalinaspolo@gmailcom
+	email = jsalinaspolo@gmail.com
 [core]
 	excludesfile = /Users/jsalinas/.gitignore_global
 [difftool "sourcetree"]
