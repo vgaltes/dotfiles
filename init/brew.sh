@@ -26,6 +26,7 @@ vim
 watch
 wget
 kubernetes-cli
+kustomize
 go
 golangci/tap/golangci-lint
 "
