@@ -27,6 +27,7 @@ watch
 wget
 kubernetes-cli
 argocd
+gh
 kustomize
 go
 golangci/tap/golangci-lint
