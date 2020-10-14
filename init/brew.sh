@@ -27,6 +27,7 @@ watch
 wget
 kubernetes-cli
 argocd
+jq
 gh
 kustomize
 go
