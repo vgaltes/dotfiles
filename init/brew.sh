@@ -26,6 +26,7 @@ vim
 watch
 wget
 kubernetes-cli
+k9s
 argocd
 jq
 gh
