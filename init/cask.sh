@@ -31,6 +31,7 @@ vlc
 witch
 zoom
 logitech-presentation
+miro
 "
 
 for f in $formulae; do
