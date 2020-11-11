@@ -34,6 +34,7 @@ logitech-presentation
 miro
 spotify
 postman
+notion
 "
 
 for f in $formulae; do
