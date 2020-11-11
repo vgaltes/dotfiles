@@ -33,6 +33,7 @@ zoom
 logitech-presentation
 miro
 spotify
+postman
 "
 
 for f in $formulae; do
