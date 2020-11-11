@@ -32,6 +32,7 @@ witch
 zoom
 logitech-presentation
 miro
+spotify
 "
 
 for f in $formulae; do
