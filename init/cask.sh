@@ -35,6 +35,7 @@ miro
 spotify
 postman
 notion
+rescuetime
 "
 
 for f in $formulae; do
