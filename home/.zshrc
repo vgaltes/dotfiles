@@ -7,46 +7,8 @@ source ~/.zsh/k8s.zsh
 
 unalias gk
 
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/Users/jsalinas/.sdkman"
-[[ -s "/Users/jsalinas/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/jsalinas/.sdkman/bin/sdkman-init.sh"
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
-[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
+#[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

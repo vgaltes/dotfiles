@@ -26,6 +26,7 @@ vim
 watch
 wget
 kubernetes-cli
+helm
 stern
 k9s
 argocd
