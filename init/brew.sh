@@ -5,6 +5,7 @@ IFS='
 brew update
 
 brew tap heroku/brew
+brew tap snyk/tap
 
 formulae="
 ack
@@ -35,7 +36,9 @@ gh
 kustomize
 go
 golangci/tap/golangci-lint
+snyk
 "
+
 for f in $formulae; do
   echo ">> $f"
   brew install $f
