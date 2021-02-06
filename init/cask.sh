@@ -36,6 +36,7 @@ spotify
 postman
 notion
 rescuetime
+rectangle
 "
 
 for f in $formulae; do
