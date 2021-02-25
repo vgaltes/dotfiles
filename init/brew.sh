@@ -6,6 +6,7 @@ brew update
 
 brew tap heroku/brew
 brew tap snyk/tap
+brew tap weaveworks/tap
 
 formulae="
 ack
@@ -37,6 +38,7 @@ kustomize
 go
 golangci/tap/golangci-lint
 snyk
+weaveworks/tap/eksctl
 "
 
 for f in $formulae; do
