@@ -7,6 +7,7 @@ brew tap homebrew/cask-fonts
 brew tap homebrew/cask-drivers
 
 formulae="
+1password-cli
 alfred
 bartender
 bettertouchtool

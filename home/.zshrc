@@ -7,6 +7,8 @@ source ~/.zsh/k8s.zsh
 
 unalias gk
 
+alias ops='eval $(op signin auth0)'
+
 #[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
 
 #eksctl completion
