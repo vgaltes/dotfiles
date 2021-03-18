@@ -24,6 +24,7 @@ iterm2
 appcleaner
 docker
 moom
+session-manager-plugin
 slack
 swinsian
 the-unarchiver
