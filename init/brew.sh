@@ -29,7 +29,7 @@ watch
 wget
 kubernetes-cli
 helm
-terraform
+tfenv
 stern
 k9s
 argocd

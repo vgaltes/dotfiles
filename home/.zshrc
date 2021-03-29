@@ -9,6 +9,8 @@ unalias gk
 
 alias ops='eval $(op signin auth0)'
 
+export PATH=$PATH:$(go env GOPATH)/bin
+
 #[[ /usr/local/bin/kubectl ]] && source <(kubectl completion zsh)
 
 #eksctl completion
