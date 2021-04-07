@@ -18,6 +18,7 @@ git-recent
 grep
 heroku
 htop
+packer
 pv
 rbenv
 ruby-build

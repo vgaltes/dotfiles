@@ -1,8 +1,13 @@
 #export KUBECONFIG=~/.kube/config-local:~/.kube/config-c1:~/.kube/config-cd
 #export KUBECONFIG=~/.kube/config-local:~/.kube/config-release
-export KUBECONFIG=~/.kube/config-local:~/.kube/config-ci
+#export KUBECONFIG=~/.kube/config-local:~/.kube/config-ci
 #export KUBECONFIG=~/.kube/config-local::~/.kube/config-cd
-#export KUBECONFIG=~/.kube/config-local::~/.kube/config-c1
+export KUBECONFIG=~/.kube/config-local::~/.kube/config-c1
+
+for kc in ~/.kube/oldsalt*
+do
+	export KUBECONFIG=$KUBECONFIG:$kc
+done
 
 source <(kubectl completion zsh)  # setup autocomplete in zsh into the current shell
 
