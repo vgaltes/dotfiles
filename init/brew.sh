@@ -14,7 +14,6 @@ autojump
 bat
 gettext
 git
-git-recent
 grep
 heroku
 htop
@@ -33,12 +32,10 @@ helm
 tfenv
 stern
 k9s
-argocd
 jq
 gh
 kustomize
 go
-golangci/tap/golangci-lint
 snyk
 weaveworks/tap/eksctl
 "
