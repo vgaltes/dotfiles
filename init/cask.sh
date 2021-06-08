@@ -16,6 +16,7 @@ font-source-code-pro-for-powerline
 google-chrome-beta
 intellij-idea
 jetbrains-toolbox
+insomnia
 iterm2
 appcleaner
 docker

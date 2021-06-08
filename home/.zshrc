@@ -8,6 +8,9 @@ source ~/.zsh/k8s.zsh
 unalias gk
 
 alias ops='eval $(op signin auth0)'
+#alias jwt-decode() {
+#	jq -R '{"header": split(".") | .[0] | @base64d | fromjson, "payload": split(".") | .[1] | @base64d | fromjson}' <<< "$1"
+#}
 
 export PATH=$PATH:$(go env GOPATH)/bin
 
