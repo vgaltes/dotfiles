@@ -29,8 +29,7 @@ watch
 wget
 kubernetes-cli
 helm
-tfenv
-stern
+terraform
 k9s
 jq
 gh
