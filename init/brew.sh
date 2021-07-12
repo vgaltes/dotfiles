@@ -29,7 +29,7 @@ watch
 wget
 kubernetes-cli
 helm
-terraform
+tfenv
 k9s
 jq
 gh
@@ -46,4 +46,3 @@ done
 
 # Audiophile
 #brew install sox --with-flac
-
