@@ -30,7 +30,6 @@ wget
 kubernetes-cli
 helm
 tfenv
-stern
 k9s
 jq
 gh
@@ -47,4 +46,3 @@ done
 
 # Audiophile
 #brew install sox --with-flac
-

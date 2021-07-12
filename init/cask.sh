@@ -13,7 +13,7 @@ font-consolas-for-powerline
 font-fira-mono-for-powerline
 font-inconsolata-for-powerline
 font-source-code-pro-for-powerline
-google-chrome-beta
+google-chrome
 intellij-idea
 jetbrains-toolbox
 insomnia
@@ -35,5 +35,5 @@ rectangle
 "
 
 for f in $formulae; do
-  brew cask install $f
+  brew install --cask $f
 done
