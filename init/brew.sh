@@ -10,6 +10,7 @@ brew tap weaveworks/tap
 
 formulae="
 ack
+adr-tools
 autojump
 bat
 gettext

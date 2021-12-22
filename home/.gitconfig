@@ -71,6 +71,7 @@
 	instructionFormat = %s [@%an]
 [commit]
 	template = ~/.gitcommittemplate
+	gpgsign = true
 [pager]
   #eg: g config --global pager.diff false
 	branch = false
@@ -78,3 +79,9 @@
 	enabled = true
 [url "git@github.com:"]
 	insteadOf = https://github.com/
+[branch]
+	autosetupmerge = always
+[credential]
+	helper = store
+[github]
+	user = jsalinaspolo
