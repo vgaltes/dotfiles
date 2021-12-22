@@ -68,9 +68,9 @@ function gradle-create-subproject {
   mkdir "$name"
   mkdir -p "$name"/src/test/kotlin
   mkdir -p "$name"/src/main/kotlin
-  touch "$name/$name".gradle
+  touch "$name/build.gradle.kts"
   echo "include \"$name\"" | pbcopy
-  echo "include string ready to be pasted in settings.gradle"
+  echo "include string ready to be pasted in settings.gradle.kts"
 }
 
 # Mac
