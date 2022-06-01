@@ -85,3 +85,5 @@
 	helper = store
 [github]
 	user = jsalinaspolo
+[init]
+	defaultBranch = main
