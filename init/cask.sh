@@ -32,6 +32,7 @@ postman
 notion
 rescuetime
 rectangle
+tuple
 "
 
 for f in $formulae; do

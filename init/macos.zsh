@@ -105,6 +105,10 @@ defaults write com.apple.dock wvous-tr-modifier -int 0
 # disable "natural" (touchscreen-style) scrolling
 defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
 
+# enable trackpad click touch
+defaults write com.apple.AppleMultitouchTrackpad Clicking -bool true
+defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true
+
 # Set a blazingly fast keyboard repeat rate
 defaults write NSGlobalDomain KeyRepeat -int 2
 defaults write NSGlobalDomain InitialKeyRepeat -int 15
