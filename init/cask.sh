@@ -18,6 +18,7 @@ intellij-idea
 jetbrains-toolbox
 insomnia
 iterm2
+monitorcontrol
 appcleaner
 docker
 slack
