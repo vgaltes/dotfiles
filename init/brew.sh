@@ -12,6 +12,7 @@ formulae="
 ack
 adr-tools
 autojump
+awscli
 bat
 gettext
 git

@@ -26,3 +26,7 @@ export NVM_DIR="$HOME/.nvm"
 # strap:straprc:begin
 [ -r "$HOME/.strap/etc/straprc" ] && . "$HOME/.strap/etc/straprc"
 # strap:straprc:end
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/Users/jsalinas/.sdkman"
+[[ -s "/Users/jsalinas/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/jsalinas/.sdkman/bin/sdkman-init.sh"
