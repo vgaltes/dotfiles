@@ -17,9 +17,7 @@ bat
 gettext
 git
 grep
-heroku
 htop
-packer
 pv
 rbenv
 ruby-build
@@ -37,7 +35,6 @@ jq
 gh
 kustomize
 go
-snyk
 weaveworks/tap/eksctl
 "
 

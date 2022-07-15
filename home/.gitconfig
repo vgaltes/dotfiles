@@ -71,7 +71,7 @@
 	instructionFormat = %s [@%an]
 [commit]
 	template = ~/.gitcommittemplate
-	gpgsign = true
+	gpgsign = false
 [pager]
   #eg: g config --global pager.diff false
 	branch = false

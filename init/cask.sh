@@ -8,7 +8,6 @@ brew tap homebrew/cask-drivers
 
 formulae="
 1password-cli
-alfred
 font-consolas-for-powerline
 font-fira-mono-for-powerline
 font-inconsolata-for-powerline
@@ -31,7 +30,6 @@ miro
 spotify
 postman
 notion
-rescuetime
 rectangle
 tuple
 "
