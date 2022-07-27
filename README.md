@@ -21,7 +21,7 @@ Install Homesick first
 
 Now it's time to clone this dotfiles as a Castle
 
-    homesick clone git@github.com:jsalinaspolo/dotfiles.git
+    homesick clone git@github.com:vgaltes/dotfiles.git
     homesick link dotfiles
 
 Time to change the shell to zsh
