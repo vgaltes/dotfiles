@@ -29,4 +29,4 @@ export NVM_DIR="$HOME/.nvm"
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/vgaltes/.sdkman"
-[[ -s "/Users/jsalinas/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/vgaltes/.sdkman/bin/sdkman-init.sh"
+[[ -s "/Users/vgaltes/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/vgaltes/.sdkman/bin/sdkman-init.sh"
