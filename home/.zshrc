@@ -7,7 +7,7 @@ source ~/.zsh/k8s.zsh
 
 unalias gk
 
-alias ops='eval $(op signin auth0)'
+#alias ops='eval $(op signin auth0)'
 #alias jwt-decode() {
 #	jq -R '{"header": split(".") | .[0] | @base64d | fromjson, "payload": split(".") | .[1] | @base64d | fromjson}' <<< "$1"
 #}
@@ -28,5 +28,5 @@ export NVM_DIR="$HOME/.nvm"
 # strap:straprc:end
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/Users/jsalinas/.sdkman"
-[[ -s "/Users/jsalinas/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/jsalinas/.sdkman/bin/sdkman-init.sh"
+export SDKMAN_DIR="/Users/vgaltes/.sdkman"
+[[ -s "/Users/jsalinas/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/vgaltes/.sdkman/bin/sdkman-init.sh"
