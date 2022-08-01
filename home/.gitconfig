@@ -1,8 +1,8 @@
 [url "ssh://git@github.com/"]
 	insteadOf = https://github.com/
 [user]
-	name = Javier Salinas
-	email = jsalinaspolo@gmail.com
+	name = Vicenç Garcia
+	email = me@vgaltes.com
 [core]
 	excludesfile = /Users/jsalinas/.gitignore_global
 [difftool "sourcetree"]
