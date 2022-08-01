@@ -4,7 +4,7 @@
 	name = Vicenç Garcia
 	email = me@vgaltes.com
 [core]
-	excludesfile = /Users/jsalinas/.gitignore_global
+	excludesfile = /Users/vgaltes/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
