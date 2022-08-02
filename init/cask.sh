@@ -30,6 +30,7 @@ postman
 notion
 rectangle
 tuple
+firefox
 "
 
 for f in $formulae; do
