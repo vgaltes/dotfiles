@@ -22,20 +22,14 @@ pv
 rbenv
 ruby-build
 screen
-stern
 tree
 vim
 watch
 wget
-kubernetes-cli
-helm
 tfenv
-k9s
 jq
 gh
-kustomize
 go
-weaveworks/tap/eksctl
 "
 
 for f in $formulae; do
