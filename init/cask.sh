@@ -17,7 +17,6 @@ intellij-idea
 jetbrains-toolbox
 insomnia
 iterm2
-monitorcontrol
 appcleaner
 docker
 slack
@@ -25,7 +24,6 @@ the-unarchiver
 visual-studio-code
 vlc
 zoom
-logitech-presentation
 miro
 spotify
 postman
