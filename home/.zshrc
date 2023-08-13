@@ -3,9 +3,8 @@ source ~/.zsh/antigen.zsh
 source ~/.zsh/rbenv.zsh
 source ~/.zsh/sdkman.zsh
 #source ~/.zsh/nvm.zsh
-source ~/.zsh/k8s.zsh
+#source ~/.zsh/k8s.zsh
 
-unalias gk
 
 #alias ops='eval $(op signin auth0)'
 #alias jwt-decode() {

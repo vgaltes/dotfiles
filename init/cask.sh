@@ -31,6 +31,9 @@ notion
 rectangle
 tuple
 firefox
+warp
+raycast
+obsidian
 "
 
 for f in $formulae; do
