@@ -8,6 +8,7 @@ autojump
 gradle
 docker
 mvn
+aws
 
 
 paulirish/git-open
