@@ -34,6 +34,8 @@ firefox
 warp
 raycast
 obsidian
+monitorcontrol
+aldente
 "
 
 for f in $formulae; do
