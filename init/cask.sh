@@ -30,7 +30,6 @@ postman
 notion
 rectangle
 tuple
-firefox
 warp
 raycast
 obsidian
